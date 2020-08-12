@@ -1,1 +1,1 @@
-web: mlflow ui
+web: mlflow ui -p 80
