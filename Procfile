@@ -1,1 +1,1 @@
-web: mlflow ui -p 80
+web: mlflow ui -p $PORT
