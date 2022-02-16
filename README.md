@@ -1,4 +1,7 @@
 
+this setup is non functional since heroku does not persist the storage
+and mlflow uses the storage in order to record the experiments
+
 # conf
 
 heroku provides the port to listen on in the `$PORT` env var
